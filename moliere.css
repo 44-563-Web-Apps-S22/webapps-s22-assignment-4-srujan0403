@@ -57,6 +57,7 @@ tr:nth-child(even) {
 .CLE:hover {
     text-shadow: 2px 3px 4px rosybrown;
     border: solid 2px rgb(189, 25, 25);
+    filter: blur(2px);
 }
 
 ul.navbar-horizontal {
@@ -81,14 +82,17 @@ ul.navbar-horizontal a:hover {
 h6.CLE:hover {
     border: 2px solid mediumvioletred;
     box-shadow: 2px 3px mediumvioletred;
+    filter: blur(2px);
 }
 
 h6.FRO:hover {
     border: 2px solid mediumvioletred;
     box-shadow: 2px 3px mediumvioletred;
+    filter: blur(2px);
 }
 
 h6.MAR:hover {
     border: 2px solid mediumvioletred;
     box-shadow: 2px 3px mediumvioletred;
+    filter: blur(2px);
 }
