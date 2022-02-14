@@ -53,3 +53,42 @@ th, td {
 tr:nth-child(even) {
     background-color: #7f6faa;
 }
+
+.CLE:hover {
+    text-shadow: 2px 3px 4px rosybrown;
+    border: solid 2px rgb(189, 25, 25);
+}
+
+ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+ul.navbar-horizontal li {
+    float:left;
+    background-color: darkviolet;
+}
+ul.navbar-horizontal a {
+    display:block;
+    padding:8px;
+    color: floralwhite;
+}
+ul.navbar-horizontal a:hover {
+    background-color: darkslateblue;
+    color:yellowgreen;
+}
+
+h6.CLE:hover {
+    border: 2px solid mediumvioletred;
+    box-shadow: 2px 3px mediumvioletred;
+}
+
+h6.FRO:hover {
+    border: 2px solid mediumvioletred;
+    box-shadow: 2px 3px mediumvioletred;
+}
+
+h6.MAR:hover {
+    border: 2px solid mediumvioletred;
+    box-shadow: 2px 3px mediumvioletred;
+}
