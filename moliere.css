@@ -53,6 +53,9 @@ th, td {
 tr:nth-child(even) {
     background-color: #7f6faa;
 }
+tr:nth-child(odd) {
+    background-color: #93aa6f;
+}
 
 .CLE:hover {
     text-shadow: 2px 3px 4px rosybrown;
