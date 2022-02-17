@@ -99,3 +99,7 @@ h6.MAR:hover {
     box-shadow: 2px 3px mediumvioletred;
     filter: blur(2px);
 }
+.icon {
+    border: 2px solid black;
+    box-shadow: 1px 1px 0px 0px blue;
+}
